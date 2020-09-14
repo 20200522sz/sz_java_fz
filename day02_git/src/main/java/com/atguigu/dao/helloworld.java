@@ -14,6 +14,12 @@ public class helloworld {
         System.out.println("hello");
         System.out.println("hello");//测试冲突，在hotfix中做的修改
 
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");//测试冲突。在master里面做的修改
+
         
 
 
